@@ -1,0 +1,8 @@
+{
+  "name": "Casid Pharma Website Maintenance System",
+  "description": "Database-driven pharmaceutical corporate website and secure role-based Admin Maintenance Dashboard for Casid Pharma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

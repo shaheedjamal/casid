@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+database/*.db
+database/*.db-wal
+database/*.db-shm
+database/.jwt_secret
+backend/uploads/*
+!backend/uploads/.gitkeep
